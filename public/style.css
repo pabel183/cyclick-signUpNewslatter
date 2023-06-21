@@ -1,0 +1,50 @@
+h1{
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    margin-top: 150px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.formDiv{
+    font-family: 'Merriweather', serif;
+    width: 30%;
+    text-align: center;
+    margin: auto auto;
+    font-size: 20px;
+    font-weight: 900;
+    
+}
+.formInput{
+    width: 100%;
+    padding: 10px 30px;
+    z-index: 2;
+    border:1px solid rgb(57, 54, 54);
+    border-radius: 4px;
+}
+.signUpButton{
+    display: block;
+    width: 461.89px;
+    padding: 15px 15px;
+    margin-top: 30px;
+    z-index: 2;
+    border:2px solid rgba(9, 1, 27, 0.133);
+    background-color: #33699C;
+    border-radius: 5px;
+    color: white;
+}
+
+.top{
+    margin-bottom: -1px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.middle{
+    border-radius: 0px;
+    margin-bottom: -1px;
+}
+.bottom{
+   
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
